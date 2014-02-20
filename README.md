@@ -7,4 +7,5 @@ A simple server that returns some JSON that's consumed by a
 bundle exec rackup
 ```
 
-For the client
+Find the Nginx configuration along with the certificate and key in the `nginx`
+directory.
